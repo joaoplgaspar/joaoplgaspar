@@ -46,3 +46,4 @@
     </a>
 </div>          
           
+![Snake animation](https://github.com/joaoplgaspar/joaoplgaspar/blob/output/github-contribution-grid-snake.svg)
