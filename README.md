@@ -1,4 +1,4 @@
-## Oi! Eu sou o João Pedro😎
+## Oi! Eu sou o João Pedro🦇
 <div>
   - 🔭 Atualmente na área de desenvolvimento Front-end
   <br>
